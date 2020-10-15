@@ -2,7 +2,7 @@ PROJECT DESCRIPTION :
 We intend to use technology to have far reaching effect on Military and other sectors. Actually our country is getting acquainted with various kind of technology but we want to uncover a new face of it by training our own Military with custom simulation of various war conditions or planned terrorist attacks . We not only just simulate it in a whole 3D world but to make it account for all real situations we added gun recoils , a feedback vest , a walking band. By using such simulation soldiers can be trained to suite any environment or physical location without being hurt and spending a lot of money. Using technology for a cause not luxury thing is what would make our country better and harness the underutilized potential of our technology. We presented our prototype Design at SRISHTI (in Aries) which was very much appreciated by many respected professors and was claimed as an innovative idea.
 
 Why Our Project Can Outstand others ?
-1) First our product can create any virtual situation be it Taj attack or a face to face battle. A great extent of flexibility
+1) First our product can create any virtual situation. A great extent of flexibility
 2) Second our vest receives a feedback from the simulation reflecting through vibration (improvised) or mild shock hits to feel the pain (can be improvised) and where he is being hit.
 3) Third it is different from other simulations as user is not stationary. He needs to move or run physically to move in the game , hence boosting his stamina.
 4) Simulated Damage effect of many guns and different recoils without even physically having them
